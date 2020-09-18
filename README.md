@@ -1,5 +1,4 @@
 # Infinite-Sneakers
-An infinite scroll down the sneaker lane for you crazy sneaker fanatics.
 
 Built with HTML, CSS, Javascrift and powered by the Unsplash API.
 
