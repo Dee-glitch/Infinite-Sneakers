@@ -9,3 +9,5 @@ Built with HTML, CSS, Javascrift and powered by the Unsplash API.
 * You also need to have an account with Unsplash to use their API.
 
 
+Live server: https://dee-glitch.github.io/Infinite-Sneakers/
+
