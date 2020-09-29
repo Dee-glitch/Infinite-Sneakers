@@ -1,6 +1,6 @@
 # Infinite-Sneakers
 
-This project is based on the https://www.udemy.com/course/javascript-web-projects-to-build-your-portfolio-resume/ and it is the second challenge of 20.
+This project is based on the https://academy.zerotomastery.io/p/javascript-projects and it is the second challenge of 20.
 
 Built with HTML, CSS, Javascrift and powered by the Unsplash API.
 
